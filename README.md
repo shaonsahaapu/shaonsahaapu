@@ -24,7 +24,7 @@
 ```yaml
 name:        "Shaon Saha Apu"
 role:        "Software Engineer @ Appinion BD Limited"
-experience:  "3.5+ years shipping Android & Flutter apps"
+experience:  "Shipping production Android & Flutter apps used by thousands"
 location:    "Dhaka, Bangladesh"
 focus:       ["offline-first", "clean/MVVM architecture", "performance", "crash reduction"]
 open_to:     "Senior Mobile Roles"
@@ -35,7 +35,7 @@ open_to:     "Senior Mobile Roles"
 ```bash
 $ shaon --whoami
 > Software Engineer @ Appinion BD Limited
-> 3.5+ yrs shipping Android & Flutter apps used by thousands
+> Shipping production Android & Flutter apps used by thousands
 > Domains: HealthTech | FinTech | EnterpriseTech | FieldForce | AgriTech | EdTech
 
 $ shaon --stack
@@ -62,9 +62,9 @@ $ shaon --stack
 <!-- ====== IMPACT ====== -->
 ## 📊 Impact in Production
 
-| 💸 Loan proposals | 🎥 Video consultations | 📝 Field reports / mo | ⏳ Experience |
+| 💸 Loan proposals | 🎥 Video consultations | 📝 Field reports / mo | 🛡️ App stability |
 |:---:|:---:|:---:|:---:|
-| **155K+** | **5.7K+** | **10K+** | **3.5+ yrs** |
+| **155K+** | **5.7K+** | **10K+** | **>99%** |
 
 <!-- ====== TECH STACK ====== -->
 ## 🛠️ Tech Stack
