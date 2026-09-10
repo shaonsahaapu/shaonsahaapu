@@ -1,5 +1,5 @@
 <!-- ====== HEADER ====== -->
-<a href="https://shaon-saha-apu.vercel.app">
+<a href="https://shaonsahaapu.com">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Shaon%20Saha%20Apu&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Mobile%20Application%20Developer%20%7C%20Android%2C%20Flutter%20and%20KMP&descSize=20&descAlignY=58" alt="Shaon Saha Apu" />
 </a>
 
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://shaon-saha-apu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-shaon--saha--apu.vercel.app-0E90D2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://shaonsahaapu.com"><img src="https://img.shields.io/badge/Portfolio-shaonsahaapu.com-0E90D2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/shaonsahaapu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:shaonsaha009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=shaonsahaapu&label=Profile%20views&color=0E90D2&style=for-the-badge" alt="views" />
@@ -125,7 +125,7 @@ $ shaon --stack
 | **Agri.Connect** | AgriTech | Android | [Play](https://play.google.com/store/apps/details?id=com.appinion.apexagro) |
 | **IDLC Ignite** | EdTech | Flutter | [Play](https://play.google.com/store/apps/details?id=com.appinionbd.idlc.lnd) · [App Store](https://apps.apple.com/us/app/idlc-ignite/id6780390454) |
 
-> 🌐 See the full case studies, screenshots, and metrics on my portfolio → **[shaon-saha-apu.vercel.app](https://shaon-saha-apu.vercel.app)**
+> 🌐 See the full case studies, screenshots, and metrics on my portfolio → **[shaonsahaapu.com](https://shaonsahaapu.com)**
 
 <!-- ====== GITHUB STATS ====== -->
 ## 📈 GitHub Stats
@@ -155,7 +155,7 @@ $ shaon --stack
 
 <!-- ====== FOOTER ====== -->
 <p align="center">
-  <a href="https://shaon-saha-apu.vercel.app"><b>⭐ Explore my full portfolio at shaon-saha-apu.vercel.app</b></a>
+  <a href="https://shaonsahaapu.com"><b>⭐ Explore my full portfolio at shaonsahaapu.com</b></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" alt="footer" />
