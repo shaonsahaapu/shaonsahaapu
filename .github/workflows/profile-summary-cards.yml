@@ -1,0 +1,25 @@
+# Generates static profile summary cards (SVG) into this repo, so they always
+# render on your profile even when live widget services are rate-limited.
+# Output lands in profile-summary-card-output/<theme>/ on the default branch.
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 21 * * *"   # daily ~03:00 Dhaka (UTC+6)
+  workflow_dispatch:        # lets you run it manually the first time
+
+permissions:
+  contents: write           # the action commits the generated SVGs back
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate profile summary cards
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 6     # Dhaka (UTC+6) for the productive-time card
