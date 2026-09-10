@@ -11,9 +11,9 @@
 
 <p align="center">
   <a href="https://shaon-saha-apu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-shaon--saha--apu.vercel.app-0E90D2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/shaon-saha-apu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/shaonsahaapu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:shaonsaha009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Apu009&label=Profile%20views&color=0E90D2&style=for-the-badge" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=shaonsahaapu&label=Profile%20views&color=0E90D2&style=for-the-badge" alt="views" />
 </p>
 
 <!-- ====== ABOUT ====== -->
@@ -131,10 +131,10 @@ $ shaon --stack
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Apu009&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=shaonsahaapu&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apu009&theme=tokyo-night&hide_border=true&area=true&color=0E90D2&line=0E90D2&point=ffffff" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaonsahaapu&theme=tokyo-night&hide_border=true&area=true&color=0E90D2&line=0E90D2&point=ffffff" alt="activity graph" />
 
 <!-- ====== FOOTER ====== -->
 <p align="center">
