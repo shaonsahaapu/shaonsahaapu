@@ -1,6 +1,6 @@
 <!-- ====== HEADER ====== -->
 <a href="https://shaonsahaapu.com">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Shaon%20Saha%20Apu&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Mobile%20Application%20Developer%20%7C%20Android%2C%20Flutter%20and%20KMP&descSize=20&descAlignY=58" alt="Shaon Saha Apu" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E90D2,50:7F52FF,100:C511E0&height=200&section=header&text=Shaon%20Saha%20Apu&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Mobile%20Application%20Developer%20%7C%20Android%2C%20Flutter%20and%20KMP&descSize=20&descAlignY=58" width="100%" alt="Shaon Saha Apu" />
 </a>
 
 <p align="center">
@@ -39,11 +39,12 @@ $ shaon --whoami
 > Domains: HealthTech | FinTech | EnterpriseTech | FieldForce | AgriTech | EdTech
 
 $ shaon --stack
-> Kotlin | Java | Dart | Jetpack Compose | Flutter | KMP | MVVM | Offline-first
+> Kotlin | Java | Dart | Jetpack Compose | Flutter | KMP | CMP | MVVM | Offline-first
 ```
 
 - 🔭 Building **production Android & Flutter apps** at [Appinion BD Limited](https://appinionbd.com) — used by thousands of real users.
-- 🌱 Currently deepening **Kotlin Multiplatform (KMP) & Compose Multiplatform**.
+- 🏦 Delivered Flutter enterprise apps for **Prime Bank, Eastern Bank, Dhaka Bank, NRB Bank and IDLC Finance**, used daily by their employees.
+- 🌱 Shipping **Kotlin Multiplatform (KMP) & Compose Multiplatform** in production.
 - 💬 Ask me about **Kotlin, Jetpack Compose, Flutter, and offline-first sync**.
 - 🧠 I modernize legacy codebases, cut crashes, and turn requirements into shipped, measurable features.
 
@@ -62,9 +63,13 @@ $ shaon --stack
 <!-- ====== IMPACT ====== -->
 ## 📊 Impact in Production
 
-| 💸 Loan proposals | 🎥 Video consultations | 📝 Field reports / mo | 🛡️ App stability |
+| 💸 Loan proposals | 📲 Supermom downloads | 🎥 Video consultations | 📝 Field reports / mo | 🛡️ Crash-free users |
+|:---:|:---:|:---:|:---:|:---:|
+| **455K+** | **350K+** | **5.7K+** | **10K+** | **99%+** |
+
+| 📦 APK size | 💥 Crash rate | ⚡ Launch speed | 🔄 Sync failures |
 |:---:|:---:|:---:|:---:|
-| **155K+** | **5.7K+** | **10K+** | **>99%** |
+| **50-60% smaller** | **12% lower** | **30% faster** | **40% fewer** |
 
 <!-- ====== TECH STACK ====== -->
 ## 🛠️ Tech Stack
@@ -81,14 +86,17 @@ $ shaon --stack
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 
 **Architecture & Libraries**
 
 ![MVVM](https://img.shields.io/badge/MVVM-0E90D2?style=flat-square)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-1E293B?style=flat-square)
 ![Hilt](https://img.shields.io/badge/Hilt-2196F3?style=flat-square)
+![Koin](https://img.shields.io/badge/Koin-F7A21B?style=flat-square)
 ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square)
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square)
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=ktor&logoColor=white)
 ![Room](https://img.shields.io/badge/Room%20DB-FF6F00?style=flat-square)
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat-square)
 
@@ -98,7 +106,16 @@ $ shaon --stack
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 ![Agora](https://img.shields.io/badge/Agora%20SDK-099DFD?style=flat-square)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Crashlytics](https://img.shields.io/badge/Crashlytics-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Offline-First](https://img.shields.io/badge/Offline--First%20Sync-4B5563?style=flat-square)
+
+**Release & CI/CD**
+
+![Google Play Console](https://img.shields.io/badge/Google%20Play%20Console-414141?style=flat-square&logo=googleplay&logoColor=white)
+![App Store Connect](https://img.shields.io/badge/App%20Store%20Connect-0D96F6?style=flat-square&logo=appstore&logoColor=white)
+![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=flat-square)
+![Xcode Cloud](https://img.shields.io/badge/Xcode%20Cloud-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **Maps & Tools**
 
@@ -116,16 +133,16 @@ $ shaon --stack
 <!-- ====== FEATURED APPS ====== -->
 ## 🚀 Featured Apps (live on the stores)
 
-| App | Domain | Platform | Store |
-|-----|--------|----------|-------|
-| **Supermom** | HealthTech | Flutter | [Play](https://play.google.com/store/apps/details?id=com.appinion.supermom) · [App Store](https://apps.apple.com/us/app/supermom-app/id6754314301) |
-| **EBL Perfometer** | EnterpriseTech | Flutter | [Play](https://play.google.com/store/apps/details?id=com.ebl.eblrmmanagement) · [App Store](https://apps.apple.com/us/app/ebl-perfometer/id6756719091) |
-| **Appinion Telehealth** | HealthTech | Android | [Play](https://play.google.com/store/apps/details?id=com.appinion.telehealth_patient) |
-| **SAJIDA Field Force** | FieldForce | Android | [Play](https://play.google.com/store/apps/details?id=com.appinionbd.sajidafieldforce) |
-| **Agri.Connect** | AgriTech | Android | [Play](https://play.google.com/store/apps/details?id=com.appinion.apexagro) |
-| **IDLC Ignite** | EdTech | Flutter | [Play](https://play.google.com/store/apps/details?id=com.appinionbd.idlc.lnd) · [App Store](https://apps.apple.com/us/app/idlc-ignite/id6780390454) |
+| App | Domain | Platform | Key result | Store |
+|-----|--------|----------|------------|-------|
+| **SAJIDA Field Force** | FieldForce | Android | 455K+ loan proposals | [Play](https://play.google.com/store/apps/details?id=com.appinionbd.sajidafieldforce) |
+| **Supermom** | HealthTech | Flutter | 350K+ downloads | [Play](https://play.google.com/store/apps/details?id=com.appinion.supermom) · [App Store](https://apps.apple.com/us/app/supermom-app/id6754314301) |
+| **EBL Perfometer** | EnterpriseTech | Flutter | Real-time KPI dashboards | [Play](https://play.google.com/store/apps/details?id=com.ebl.eblrmmanagement) · [App Store](https://apps.apple.com/us/app/ebl-perfometer/id6756719091) |
+| **Prime LMS** | EdTech | Flutter | 3.5K+ employees, -70% admin effort | [Play](https://play.google.com/store/apps/details?id=com.pbl.primelms) · [App Store](https://apps.apple.com/us/app/prime-lms/id6814715839) |
+| **Agri.Connect** | AgriTech | Android | -35% manual effort | [Play](https://play.google.com/store/apps/details?id=com.appinion.apexagro) |
+| **Agrani - Amar Passbook** | FinTech | Flutter | -70% reconciliation work | [Play](https://play.google.com/store/apps/details?id=com.appinion.agrani_app) |
 
-> 🌐 See the full case studies, screenshots, and metrics on my portfolio → **[shaonsahaapu.com](https://shaonsahaapu.com)**
+> 🌐 See every project with case studies, screenshots, and metrics → **[shaonsahaapu.com](https://shaonsahaapu.com)**
 
 <!-- ====== GITHUB STATS ====== -->
 ## 📈 GitHub Stats
@@ -149,13 +166,14 @@ $ shaon --stack
   <img src="https://raw.githubusercontent.com/shaonsahaapu/shaonsahaapu/output/github-snake-dark.svg" alt="contribution snake" />
 </p>
 
-<!-- Kept below on purpose: this live activity graph renders again once the
-     public instance's rate limit resets. -->
+<!-- Activity graph disabled: its public instance was shut down (402 DEPLOYMENT_DISABLED,
+     2026-10-15). The snake and profile-details cards above cover activity.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaonsahaapu&theme=tokyo-night&hide_border=true&area=true&color=0E90D2&line=0E90D2&point=ffffff" alt="activity graph" />
+-->
 
 <!-- ====== FOOTER ====== -->
 <p align="center">
   <a href="https://shaonsahaapu.com"><b>⭐ Explore my full portfolio at shaonsahaapu.com</b></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E90D2,50:7F52FF,100:C511E0&height=120&section=footer" width="100%" alt="footer" />
